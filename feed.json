@@ -1,0 +1,174 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Brandsupply Support COM",
+    "description": "",
+    "home_page_url": "https://support.brandsupply.com",
+    "feed_url": "https://support.brandsupply.com/feed.json",
+    "user_comment": "",
+    "icon": "https://support.brandsupply.com/media/website/logo.png",
+    "author": {
+        "name": "Matt"
+    },
+    "items": [
+        {
+            "id": "https://support.brandsupply.com/hoe-zit-het-met-belasting.html",
+            "url": "https://support.brandsupply.com/hoe-zit-het-met-belasting.html",
+            "title": "What about taxes?",
+            "summary": "Every User is individually responsible for reporting and, if necessary, paying taxes such as income tax or VAT, as well as complying with other legal&hellip;",
+            "content_html": "<p>Every User is individually responsible for reporting and, if necessary, paying taxes such as income tax or VAT, as well as complying with other legal obligations.</p>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+                   "Financial",
+                   "Clients"
+            ],
+            "date_published": "2024-10-07T13:20:17+02:00",
+            "date_modified": "2024-10-10T12:06:51+02:00"
+        },
+        {
+            "id": "https://support.brandsupply.com/welke-betaalmethoden-biedt-brandsupply.html",
+            "url": "https://support.brandsupply.com/welke-betaalmethoden-biedt-brandsupply.html",
+            "title": "What payment methods does Brandsupply offer?",
+            "summary": "Brandsupply collaborates with a reputable Payment Service Provider to securely process all payments. The current software includes 4 payment options that together can handle almost&hellip;",
+            "content_html": "<p>Brandsupply collaborates with a reputable Payment Service Provider to securely process all payments.</p>\n<p>The current software includes 4 payment options that together can handle almost all national and international payments:</p>\n<ol>\n<li>iDEAL</li>\n<li>Mastercard Credit Card</li>\n<li>VISA Credit Card</li>\n<li>PayPal</li>\n</ol>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+                   "Financial",
+                   "Clients"
+            ],
+            "date_published": "2024-10-07T13:19:58+02:00",
+            "date_modified": "2024-10-10T12:07:45+02:00"
+        },
+        {
+            "id": "https://support.brandsupply.com/wat-betekent-no-cure-no-pay-precies.html",
+            "url": "https://support.brandsupply.com/wat-betekent-no-cure-no-pay-precies.html",
+            "title": "What does &quot;no cure, no pay&quot; mean exactly?",
+            "summary": "If a client is not satisfied at the end of the contest period, they can close the contest without selecting a winner, without needing to&hellip;",
+            "content_html": "<p>If a client is not satisfied at the end of the contest period, they can close the contest without selecting a winner, without needing to provide a reason. In that case, the client does not have to pay an award or a success fee.</p>\n<p>We fully trust that the designers will deliver a good design, but we are only satisfied when the client is as well!</p>\n<p>The 'no cure, no pay guarantee' does not apply to <a href=\"https://support.brandsupply.com/wat-is-een-gegarandeerde-wedstrijd.html\" title=\"Wat is een gegarandeerde wedstrijd?\">guaranteed</a> contests. In such cases, the full amount is paid upfront and is non-refundable. The client is required to select a winner in this case.</p>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+                   "Financial",
+                   "Clients"
+            ],
+            "date_published": "2024-10-07T13:19:33+02:00",
+            "date_modified": "2024-10-10T12:08:32+02:00"
+        },
+        {
+            "id": "https://support.brandsupply.com/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html",
+            "url": "https://support.brandsupply.com/ik-ben-opdrachtgever-wanneer-betaal-ik-wat.html",
+            "title": "I am a client, when do I pay and what do I pay for?",
+            "summary": "As a client, when starting your contest, you can choose between a non-guaranteed contest (no cure, no pay!) or a guaranteed contest. For a guaranteed&hellip;",
+            "content_html": "<p>As a client, when starting your contest, you can choose between a non-guaranteed contest (<a href=\"https://support.brandsupply.com/wat-betekent-no-cure-no-pay-precies.html\" title=\"What does \" no=\"\" cure=\"\" pay=\"\" mean=\"\" exactly=\"\">no cure, no pay!</a>) or a guaranteed contest.</p>\n<p>For a guaranteed contest, you pay the full amount upfront before the contest begins.</p>\n<p>For a non-guaranteed contest, the placement fee is paid when the contest is posted.</p>\n<p>When the client selects a winner, the award and success fee are charged. No winner? Then no award or success fee is paid!</p>\n<p>The award doesn't go directly to the designer right away. First, the designer receives an automatic notification requesting them to transfer the files via the link sent by Brandsupply. The client is then asked to approve these files. Once the files are received in good condition, Brandsupply will pay the designer.</p>\n<p>This is an automated process.</p>\n<p><strong><a href=\"https://support.brandsupply.com/wat-gebeurt-er-als-een-wedstrijd-afloopt.html\" title=\"Wat gebeurt er als een wedstrijd afloopt?\">What happens when a contest ends?</a></strong></p>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+                   "Financial",
+                   "Clients"
+            ],
+            "date_published": "2024-10-07T13:19:00+02:00",
+            "date_modified": "2024-10-10T12:09:43+02:00"
+        },
+        {
+            "id": "https://support.brandsupply.com/hoeveel-kost-een-wedstrijd-me.html",
+            "url": "https://support.brandsupply.com/hoeveel-kost-een-wedstrijd-me.html",
+            "title": "How much does a contest cost me?",
+            "summary": "This is what makes Brandsupply unique! Depending on the available budget, the client can set the price of a contest themselves. The costs for the&hellip;",
+            "content_html": "<p>This is what makes Brandsupply unique! Depending on the available budget, the client can set the price of a contest themselves.</p>\n<p>The costs for the client are divided into three parts:</p>\n<ol>\n<li>The <strong>placement fee</strong> is paid by the client for opening a contest.</li>\n<li>The <strong>award</strong> is the prize that will eventually go to the winning designer.</li>\n<li>The <strong>success fee</strong> is paid by the client when the contest is successfully completed.</li>\n</ol>\n<p>To help clients get started, Brandsupply offers three packages per design category: bronze, silver, and gold. Everything can be found clearly on the <a href=\"https://www.brandsupply.com/pricing\" title=\"Brandsupply Pricing\" target=\"_blank\" rel=\"noopener noreferrer\">pricing page</a>.</p>\n<p><strong><a href=\"https://support.brandsupply.com/wat-betekent-no-cure-no-pay-precies.html\" title=\"What does \" no=\"\" cure=\"\" pay=\"\" mean=\"\" exactly=\"\">No cure, no pay!</a></strong> We are only satisfied when the client is. The client can close a contest at the end of the period without selecting a winner. In this case, the client doesn’t need to pay the award or success fee and is only charged the placement fee.</p>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+                   "Financial",
+                   "Clients"
+            ],
+            "date_published": "2024-10-07T13:18:08+02:00",
+            "date_modified": "2024-10-10T12:11:29+02:00"
+        },
+        {
+            "id": "https://support.brandsupply.com/waar-vind-ik-mijn-factuur.html",
+            "url": "https://support.brandsupply.com/waar-vind-ik-mijn-factuur.html",
+            "title": "Where can I find my invoice?",
+            "summary": "In the case of a successful non-guaranteed contest, the client has two payment moments: when posting the contest and when selecting a winner. We send&hellip;",
+            "content_html": "<section class=\"article-info\">\n<div class=\"article-content\">\n<div class=\"article-body\"> </div>\n<div><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">In the case of a successful non-guaranteed contest, the client has two payment moments: when posting the contest and when selecting a winner.</span></div>\n<div>\n<p>We send the invoices as attachments with the confirmation emails sent when the contest is posted and when a winner is selected.</p>\n<p>In the case of a guaranteed contest, there is only one payment moment. The invoice will be included with the confirmation email for starting the contest.</p>\n</div>\n</div>\n</section>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+                   "Financial",
+                   "Clients"
+            ],
+            "date_published": "2024-10-07T13:17:26+02:00",
+            "date_modified": "2024-10-10T12:12:00+02:00"
+        },
+        {
+            "id": "https://support.brandsupply.com/hoe-werken-de-comments.html",
+            "url": "https://support.brandsupply.com/hoe-werken-de-comments.html",
+            "title": "How do the comments work?",
+            "summary": "We believe it is important for clients and designers to communicate about the designs during the contest. One of the main ways to do this&hellip;",
+            "content_html": "<p>We believe it is important for clients and designers to communicate about the designs during the contest.</p>\n<p>One of the main ways to do this is by leaving comments on submissions.</p>\n<p>Clients can use the comments to express what they like about the design and what they would like to see changed. Designers can then respond. This can include all aspects of the design: colors, shapes, small details, or the overall composition. The more information the designer has, the better!</p>\n<p>Comments are visible to everyone who has access to the contest. This depends on the choice the client made at the start of the contest.</p>\n<p>Clients and designers can also send private messages to each other. These messages appear in the Inbox of your MyBrandsupply profile.</p>\n<p>Other designers can also leave comments on submissions. Sometimes, the perspective of another designer can be interesting for the client as well.</p>\n<p>Brandsupply reserves the right to remove comments if necessary.</p>\n<p><a href=\"https://support.brandsupply.com/wat-betekenen-de-sterren-onder-de-inzendingen.html\" title=\"Wat betekenen de sterren onder de inzendingen?\">What do the stars under the submissions mean?</a></p>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+                   "Manage contest",
+                   "Clients"
+            ],
+            "date_published": "2024-10-07T13:16:17+02:00",
+            "date_modified": "2024-10-10T12:12:53+02:00"
+        },
+        {
+            "id": "https://support.brandsupply.com/wat-betekenen-de-sterren-onder-de-inzendingen.html",
+            "url": "https://support.brandsupply.com/wat-betekenen-de-sterren-onder-de-inzendingen.html",
+            "title": "What do the stars under the submissions mean?",
+            "summary": "We believe it is important for clients and designers to communicate about the designs during the contest. Therefore, we offer the option to provide feedback&hellip;",
+            "content_html": "<p>We believe it is important for clients and designers to communicate about the designs during the contest. Therefore, we offer the option to provide feedback through written comments or by assigning stars.</p>\n<p>The stars represent a rating system on a scale from 1 to 5, with five stars being the highest score a client can give to a design.</p>\n<p>It’s not always easy in a contest environment to clearly describe what a client is looking for in a design. After all, they are seeking the help of designers for a reason!</p>\n<p>The rating system is an intuitive way for clients to indicate which designs they like. This allows the client to guide the design process, and designers have the opportunity to build on the client’s preferences.</p>\n<p>Brandsupply ensures that the originality of submissions is respected. If we believe that designs have been copied, we may proceed to remove the submission.</p>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+                   "Manage contest",
+                   "Clients"
+            ],
+            "date_published": "2024-10-07T13:15:37+02:00",
+            "date_modified": "2024-10-10T12:13:52+02:00"
+        },
+        {
+            "id": "https://support.brandsupply.com/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html",
+            "url": "https://support.brandsupply.com/originaliteit-en-auteursrecht-tips-voor-opdrachtgevers.html",
+            "title": "Originality and copyright, tips for clients",
+            "summary": "To ensure you select an original design, we have set clear rules. The use of stock material is prohibited, as well as copying previously submitted&hellip;",
+            "content_html": "<p>To ensure you select an original design, we have set clear rules. The use of stock material is prohibited, as well as copying previously submitted designs.</p>\n<p>We work hard every day to make sure these rules are respected. As a client, you can also play a role:</p>\n<ol>\n<li>\n<p>Follow the contest closely. This way, you can see which designers are submitting truly original designs.</p>\n</li>\n<li>\n<p>Participants can file a complaint for each submission. We will review the complaint. Sometimes designers may point out possible copyright violations or the use of stock material: always contact our customer service in such cases. We will take appropriate action if the complaint is valid, but we also aim to prevent false accusations.</p>\n</li>\n<li>\n<p>Want to check if no stock material has been used? As a client, you can use reverse image search to see if the image can be found elsewhere on the web: use <a href=\"https://images.google.com/\" title=\"Google Images\" target=\"_blank\" rel=\"noopener noreferrer\">Google Images</a> (click on the photo icon: search by image), or services like <a href=\"https://www.tineye.com/\" title=\"TinEye\" target=\"_blank\" rel=\"noopener noreferrer\">TinEye</a>.</p>\n</li>\n</ol>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+                   "Manage contest",
+                   "Clients"
+            ],
+            "date_published": "2024-10-07T13:15:04+02:00",
+            "date_modified": "2024-10-10T12:15:09+02:00"
+        },
+        {
+            "id": "https://support.brandsupply.com/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html",
+            "url": "https://support.brandsupply.com/hoeveel-tijd-heb-ik-als-opdrachtgever-om-een-winnaar-te-kiezen.html",
+            "title": "How much time do I have as a client to choose a winner?",
+            "summary": "The client selects the duration of the contest at the start. Once the contest has ended, it's time to choose a winner. We ask the&hellip;",
+            "content_html": "<p>The client selects the duration of the contest at the start. Once the contest has ended, it's time to choose a winner. We ask the client to select a winner within one week.</p>\n<p>Most clients can decide quickly, as they have followed the contest closely and provided feedback to the designers. By the end of the contest, it’s usually clear which designs are the favorites. Some clients may need a bit more time, for example, to consult with others.</p>\n<p>If the client isn’t 100% convinced by the submissions when the contest ends, they can <a href=\"https://support.brandsupply.com/hoe-kan-ik-mijn-wedstrijd-verlengen.html\" title=\"Hoe kan ik mijn wedstrijd verlengen?\">extend</a> the contest for one more week.</p>\n<p>However, the client is not obligated to choose a winner and can close the contest without selecting one if none of the designs are suitable. We trust in our designers, and this happens very rarely.</p>\n<p>The client is required to choose a winner if they selected a <a href=\"https://support.brandsupply.com/wat-is-een-gegarandeerde-wedstrijd.html\" title=\"Wat is een gegarandeerde wedstrijd?\">guaranteed contest</a>.</p>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+                   "End contest",
+                   "Clients"
+            ],
+            "date_published": "2024-10-07T13:13:24+02:00",
+            "date_modified": "2024-10-10T12:16:29+02:00"
+        }
+    ]
+}
